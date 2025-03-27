@@ -1,6 +1,5 @@
 function removeFromFrontOfNew(arr) {
-    // your code here
-    
+    arr=arr.pop()
 }
 
 let arr = [1, 2, 3];

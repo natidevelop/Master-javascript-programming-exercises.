@@ -6,5 +6,5 @@ function getAllLetters(str) {
    return letters;
   }
 
-let output = getAllLetters('Radagast');
+let output = getAllLetters('Radagasts');
 console.log(output); // --> ['R', 'a', 'd', 'a', 'g', 'a', 's', 't']
